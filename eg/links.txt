@@ -1,1 +1,2 @@
 https://github.com/bertrandmartel/adafruit-oled-st7735-dk51
+https://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.sdk5.v13.0.0%2Fble_sdk_app_queued_writes.html
